@@ -1,0 +1,23 @@
+List of formatting techniques:
+
+Addition: "+"
+Subtraction: "-"
+Multiplication: "*"
+Division: "/"
+Brackets: "()"
+Exponent to n'th degree: "^n"
+Square root of N: "sqrtN"
+Cube root of N: "cbrtN"
+Cos of N: "cosN"
+Sin of N: "sinN"
+Tan of N: "tanN"
+Sin inverse/ Arc Sin of N: "asinN"
+Cos inverse/ Arc Cos of N: "acosN"
+Tan inverse/ arc Tan of N: "atanN"
+Log base X of N: "XlogbN"
+Log base 10 of N: "logN"
+Log base E of N: "lnN"
+X'th root of N: "XrtN"
+
+
+All trigonometric ratio's are calculated in Degrees.
